@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'database.dart';
 import 'drawer_navigation.dart';
+import 'dialog_box.dart';
+import 'todo_tile.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
